@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = '走って・ぶら下がって・考えた'
 theme = 'PaperMod' 
