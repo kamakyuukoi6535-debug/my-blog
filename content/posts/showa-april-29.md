@@ -17,7 +17,7 @@ tags: ["昭和", "今日は何の日", "オセロ", "シンボリルドルフ", 
 
 ## 昭和48年（1973年）4月29日──黒と白のゲームが、この日に生まれた
 
-![オセロの盤と石](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Othello-Standard-Board.jpg/640px-Othello-Standard-Board.jpg)
+![オセロの盤と石](/images/othello-board.jpg)
 *オセロの盤と石（出典：Wikimedia Commons / パブリックドメイン）*
 
 「**オセロ**」が発売されたのは、昭和48年のこの日だ。
@@ -35,9 +35,6 @@ tags: ["昭和", "今日は何の日", "オセロ", "シンボリルドルフ", 
 ---
 
 ## 昭和60年（1985年）4月29日──「皇帝」が、五冠に輝いた日
-
-![シンボリルドルフ 1985年天皇賞（春）出走時](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Symboli_rudolf.jpg/480px-Symboli_rudolf.jpg)
-*シンボリルドルフ 1985年4月29日 天皇賞（春）出走時（出典：もがみますみ / Wikimedia Commons / Copyrighted free use）*
 
 競馬の話を一つ。
 
