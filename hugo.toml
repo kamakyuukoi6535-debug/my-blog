@@ -1,4 +1,7 @@
 baseURL = 'https://run-pull-up-think.com/'
 locale = 'en-us'
 title = '走って・ぶら下がって・考えた'
-theme = 'PaperMod' 
+theme = 'PaperMod'
+
+[params]
+  favicon = "/favicon.png"
