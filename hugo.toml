@@ -5,3 +5,8 @@ theme = 'PaperMod'
 
 [params]
   favicon = "/favicon.png"
+
+[[menus.main]]
+  name = "プロフィール"
+  url = "/about/"
+  weight = 10
