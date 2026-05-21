@@ -5,7 +5,7 @@ theme = 'PaperMod'
 buildFuture = true
 
 [params]
-  favicon = "/favicon.png"
+  favicon = "/favicon.ico"
 
 [[menus.main]]
   name = "プロフィール"
