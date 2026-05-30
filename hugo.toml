@@ -11,3 +11,13 @@ buildFuture = true
   name = "プロフィール"
   url = "/about/"
   weight = 10
+
+[[menus.main]]
+  name = "お問い合わせ"
+  url = "/contact/"
+  weight = 20
+
+[[menus.main]]
+  name = "プライバシーポリシー"
+  url = "/privacy/"
+  weight = 30
