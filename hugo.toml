@@ -4,6 +4,10 @@ title = '昭和44年男'
 theme = 'PaperMod'
 buildFuture = true
 
+[services]
+  [services.googleAnalytics]
+    ID = "G-3ZETN91N72"
+
 [params]
   favicon = "/favicon.ico"
 
