@@ -1,0 +1,93 @@
+{{- if .IsPage }}
+<style>
+.copy-url-wrap {
+  margin: 1.5rem 0 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+.copy-url-label {
+  font-size: 0.82rem;
+  color: var(--secondary);
+}
+.copy-url-box {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: var(--code-bg, #f4f4f4);
+  border: 1px solid var(--border, #ddd);
+  border-radius: 6px;
+  padding: 0.3rem 0.6rem;
+  font-size: 0.8rem;
+  max-width: 100%;
+  overflow: hidden;
+}
+.copy-url-text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: var(--secondary);
+  max-width: 340px;
+}
+.copy-url-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 2px 4px;
+  border-radius: 4px;
+  font-size: 1rem;
+  line-height: 1;
+  color: var(--secondary);
+  flex-shrink: 0;
+  transition: background 0.15s;
+}
+.copy-url-btn:hover {
+  background: var(--border, #ddd);
+}
+.copy-url-btn.copied {
+  color: #2e7d32;
+}
+</style>
+
+<div class="copy-url-wrap">
+  <span class="copy-url-label">この記事のURL：</span>
+  <div class="copy-url-box">
+    <span class="copy-url-text" id="copy-url-text">{{ .Permalink }}</span>
+    <button class="copy-url-btn" id="copy-url-btn" title="URLをコピー" aria-label="URLをコピー">□</button>
+  </div>
+</div>
+
+<script>
+(function() {
+  var btn = document.getElementById('copy-url-btn');
+  if (!btn) return;
+  btn.addEventListener('click', function() {
+    var url = '{{ .Permalink }}';
+    navigator.clipboard.writeText(url).then(function() {
+      btn.textContent = '✓';
+      btn.classList.add('copied');
+      setTimeout(function() {
+        btn.textContent = '□';
+        btn.classList.remove('copied');
+      }, 2000);
+    }).catch(function() {
+      var ta = document.createElement('textarea');
+      ta.value = url;
+      ta.style.position = 'fixed';
+      ta.style.opacity = '0';
+      document.body.appendChild(ta);
+      ta.select();
+      document.execCommand('copy');
+      document.body.removeChild(ta);
+      btn.textContent = '✓';
+      btn.classList.add('copied');
+      setTimeout(function() {
+        btn.textContent = '□';
+        btn.classList.remove('copied');
+      }, 2000);
+    });
+  });
+})();
+</script>
+{{- end }}
