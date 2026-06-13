@@ -1,0 +1,22 @@
+{{- /* Amazonアフィリエイトリンクボックス
+  使い方:
+  {{< amazon title="本当の自由を手に入れる お金の大学" url="https://www.amazon.co.jp/dp/XXXX?tag=あなたのタグ" note="両@リベ大学長 / 朝日新聞出版" img="/images/xxx.jpg" >}}
+  ・url … Amazonアソシエイトのリンク（SiteStripeで取得した、自分のタグ入りURL）
+  ・title … 商品名（必須）
+  ・note … 著者・補足（任意）
+  ・img … 商品画像のパス（任意）
+*/ -}}
+{{- $url := .Get "url" -}}
+{{- $title := .Get "title" -}}
+{{- $note := .Get "note" -}}
+{{- $img := .Get "img" -}}
+<div class="amz-box">
+  {{- if $img }}
+  <div class="amz-box-img"><img src="{{ $img }}" alt="{{ $title }}" loading="lazy"></div>
+  {{- end }}
+  <div class="amz-box-body">
+    <div class="amz-box-title">{{ $title }}</div>
+    {{- if $note }}<div class="amz-box-note">{{ $note }}</div>{{- end }}
+    <a class="amz-box-btn" href="{{ $url }}" target="_blank" rel="nofollow sponsored noopener">Amazonで見る ›</a>
+  </div>
+</div>
