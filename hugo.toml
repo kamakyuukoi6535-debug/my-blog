@@ -12,6 +12,11 @@ buildFuture = true
   favicon = "/favicon.ico"
 
 [[menus.main]]
+  name = "カテゴリ"
+  url = "/categories/"
+  weight = 5
+
+[[menus.main]]
   name = "プロフィール"
   url = "/about/"
   weight = 10
