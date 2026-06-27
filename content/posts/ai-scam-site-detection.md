@@ -4,6 +4,7 @@ categories: ["お金と暮らし"]
 date: 2026-04-27T00:00:00+09:00
 draft: false
 tags: ["AI活用", "詐欺サイト", "セキュリティ", "子育て"]
+images: ["/images/ogp-default.jpg"]
 ---
 
 高校生の息子が、スマホを差し出しながら言ってきた。

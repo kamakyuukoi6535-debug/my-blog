@@ -4,6 +4,7 @@ categories: ["昭和の今日は何があった日？"]
 date: 2026-06-06T09:00:00+09:00
 draft: false
 tags: ["昭和", "6月6日", "光化学スモッグ", "公害", "高度経済成長", "子どもの思い出", "葛飾"]
+images: ["/images/tokyo-smog-aerial.jpg"]
 ---
 
 六月六日になりました。

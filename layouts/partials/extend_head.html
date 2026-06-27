@@ -77,17 +77,3 @@
 .dark .txt-green  { color: #a5d6a7; }
 .dark .txt-orange { color: #ffb74d; }
 </style>
-
-{{/* SNSシェア用サムネイル（OGP画像）を本文の最初の画像から自動設定 */}}
-{{- $img := "" -}}
-{{- with .Params.cover.image }}{{ $img = . }}{{ end -}}
-{{- if and (not $img) .RawContent -}}
-  {{- $matches := findRE `/images/[A-Za-z0-9._/-]+\.(?:jpg|jpeg|png|webp)` .RawContent 1 -}}
-  {{- with $matches }}{{ $img = index . 0 }}{{ end -}}
-{{- end -}}
-{{- if not $img }}{{ $img = "/images/ogp-default.jpg" }}{{ end -}}
-{{- $abs := $img | absURL -}}
-<meta property="og:image" content="{{ $abs }}">
-<meta property="og:image:alt" content="{{ .Title }}">
-<meta name="twitter:image" content="{{ $abs }}">
-<meta name="twitter:card" content="summary_large_image">

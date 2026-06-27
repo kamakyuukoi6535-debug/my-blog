@@ -4,6 +4,7 @@ categories: ["走って・ぶら下がって・考えた"]
 date: 2026-06-13T12:00:00+09:00
 draft: false
 tags: ["坂の上の雲", "正岡子規", "上野公園", "野球", "明治"]
+images: ["/images/ueno-park-stone.jpg"]
 ---
 
 白状すると、私は『坂の上の雲』のファンである。
