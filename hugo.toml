@@ -4,6 +4,11 @@ title = '昭和44年男'
 theme = 'PaperMod'
 buildFuture = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [services]
   [services.googleAnalytics]
     ID = "G-3ZETN91N72"
