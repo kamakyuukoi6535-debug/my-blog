@@ -144,3 +144,4 @@ images: ["/images/house-denenchofu.jpg"]
 - [第9話 「短期トレード」の果てに──インデックス投資という長期戦のはじまり](/posts/money-war-09/)
 - [第10話 「廃止決定」の制度に、子どもたちの未来を託した──ジュニアNISA編](/posts/money-war-10/)
 - [第11話 「もう一本の柱」iDeCo──節税と引き換えに、60歳まで縛るという選択](/posts/money-war-11/)
+- [第12話 二軒の戸建がくれた、もう一本の柱──戸建賃貸業のはじまり](/posts/money-war-12/)
