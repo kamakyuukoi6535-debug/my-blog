@@ -6,7 +6,7 @@ series: "お金と僕の12年戦争"
 episode: 5
 tags: ["お金と僕の12年戦争", "保険", "固定費", "投資", "NISA", "インデックス投資", "家計改善"]
 description: "ドル建て終身保険の解約に4年かかった。頭でわかっていても行動できない──その壁を越えた記録。"
-images: ["/images/sp500-chart.svg"]
+images: ["/images/coins-savings-growth.jpg"]
 ---
 
 *お金と僕の12年戦争・第5話*
