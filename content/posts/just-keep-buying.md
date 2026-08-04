@@ -138,6 +138,8 @@ images: ["/images/jkb-ogp.jpg"]
 
 ![『THE WEALTH LADDER 富の階段』（ニック・マジューリ著／児島修 訳／ダイヤモンド社）](/images/wealth-ladder-cover.jpg)
 
+※『富の階段』の内容は、[こちらの記事](/posts/wealth-ladder/)で詳しく要約しています。
+
 {{< amazon title="THE WEALTH LADDER 富の階段 ── 資産レベルが上がり続けるシンプルな戦略" note="ニック・マジューリ／児島修 訳／ダイヤモンド社。『JUST KEEP BUYING』著者の最新作。資産レベルごとに変わる「やるべきこと」と、お金持ちになれる人の共通点と落とし穴を解説" url="https://www.amazon.co.jp/dp/4478121362?tag=showa44man22-22" >}}
 
 ---
