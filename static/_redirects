@@ -1,0 +1,37 @@
+# 旧タグページの転送設定
+# 2026年7月のタグ統合で「昭和XX年 / 19XX年」タグは「昭和」タグに吸収したため、
+# 検索結果に残っている旧URLを「昭和」タグページへ転送する（正当な301）。
+# それ以外の旧タグは同等ページが存在しないため、あえて404のまま（カスタム404で受ける）。
+/tags/1965%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/1968%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/1969%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/1971%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/1976%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/1980%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/1982%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/1983%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/1986%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C12%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C27%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C41%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C42%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C43%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C44%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C45%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C46%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C47%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C48%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C50%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C51%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C52%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C53%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C54%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C55%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C56%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C57%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C58%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C59%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C60%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C61%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C62%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
+/tags/%E6%98%AD%E5%92%8C63%E5%B9%B4/  /tags/%E6%98%AD%E5%92%8C/  301
