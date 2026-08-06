@@ -158,3 +158,4 @@ images: ["/images/wealth-ladder-ogp.jpg"]
 *あわせて読みたい：同じ著者の前作と、お金の原理原則を学べる一冊のご紹介はこちら▼*
 [「安くなってから買おう」は、なぜ損なのか？──世界的ベストセラー『JUST KEEP BUYING』をやさしく解説！](/posts/just-keep-buying/)
 [なぜ、同じ収入でも「貯まる人」と「貯まらない人」がいるの？──100年読み継がれる名著『バビロンの大富豪』](/posts/babylon-richest-man/)
+[「1億円ためないと自由になれない」って本当？──『「パラレルインカム」のはじめ方』をやさしく解説！](/posts/parallel-income/)
