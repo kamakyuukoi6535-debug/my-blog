@@ -147,3 +147,4 @@ SNSやネットで見かける<span class="txt-red">「絶対もうかる」「�
 [なぜ学校では「お金の増やし方」を教えてくれないの？──山崎元『図解・最新 学校では教えてくれないお金の授業』](/posts/money-jugyo-yamazaki/)
 [「安くなってから買おう」は、なぜ損なのか？──世界的ベストセラー『JUST KEEP BUYING』をやさしく解説！](/posts/just-keep-buying/)
 [「いくらまで使っていいか」の正解は人によって違う？──『THE WEALTH LADDER 富の階段』をやさしく要約](/posts/wealth-ladder/)
+[お金持ちになるのに「頭の良さ」はいらない？──世界で600万部売れた『サイコロジー・オブ・マネー』をやさしく解説！](/posts/psychology-of-money/)
