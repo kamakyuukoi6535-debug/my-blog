@@ -4,6 +4,7 @@ draft = false
 title = 'ド素人がClaude Codeの助けを借りて、1日でブログを無料で公開できた話'
 categories = ["お金と暮らし"]
 images = ["/images/ogp-default.jpg"]
+description = 'コマンドもGitHubも知らないド素人が、Claude Codeの助けを借りて1日でブログを無料公開できた話。使ったツール、事前の準備、当日の作業の流れ、正直につまずいたところまで、実際にやったことをそのまま書きました。費用は0円です。'
 +++
 
 「ブログを始めてみたい」と思ったことはあるだろうか。

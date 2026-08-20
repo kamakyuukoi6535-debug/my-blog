@@ -5,6 +5,7 @@ draft: false
 categories: ["昭和の今日は何があった日？"]
 tags: ["昭和", "音楽", "昭和44年男"]
 images: ["/images/nippon-budokan.jpg"]
+description: "昭和41年6月29日、ビートルズが初めて日本の地を踏みました。私が生まれる三年前のできごとです。あの五日間に日本で起きたこと、武道館という最初の扉、そして客席にいた若き日のジュリーの話。"
 ---
 ## <span class="txt-blue">私が生まれる、三年前の水曜日</span>
 
