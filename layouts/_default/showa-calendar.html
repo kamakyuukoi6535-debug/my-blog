@@ -1,0 +1,35 @@
+{{- define "main" }}
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title entry-hint-parent">{{ .Title }}</h1>
+    {{- if .Description }}
+    <div class="post-description">{{ .Description }}</div>
+    {{- end }}
+  </header>
+
+  <div class="post-content">
+    {{ .Content }}
+
+    {{- $series := where (where site.RegularPages "Type" "posts") "Params.categories" "intersect" (slice "昭和の今日は何があった日？") }}
+
+    <p style="color:var(--secondary);font-size:.95em;margin:.2em 0 1.6em;">
+      現在 {{ len $series }} 本。日付をたどって、どこからでもお読みいただけます。
+    </p>
+
+    {{- range $series.GroupByDate "01" "asc" }}
+    <h2 id="m{{ .Key }}" style="margin:2em 0 .4em;padding-bottom:.25em;border-bottom:2px solid var(--border);">{{ .Key | strings.TrimLeft "0" }}月</h2>
+    <ul style="list-style:none;padding:0;margin:0;">
+      {{- range .Pages.ByDate }}
+      {{- $t := .Title | replaceRE `^【昭和の今日は何があった日？】\s*` "" | replaceRE `｜昭和の今日は何があった日？.*$` "" }}
+      <li style="display:flex;gap:.9em;align-items:baseline;padding:.5em 0;border-bottom:1px solid var(--border);">
+        <span style="flex:0 0 4.6em;text-align:right;font-weight:700;color:var(--secondary);white-space:nowrap;">{{ .Date.Format "1月2日" }}</span>
+        <a href="{{ .RelPermalink }}" style="flex:1;">{{ $t }}</a>
+      </li>
+      {{- end }}
+    </ul>
+    {{- end }}
+  </div>
+</article>
+
+{{- end }}

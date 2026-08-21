@@ -173,3 +173,4 @@ images: ["/images/psychology-money-ogp.jpg"]
 [「いくらまで使っていいか」の正解は人によって違う？──『THE WEALTH LADDER 富の階段』をやさしく要約](/posts/wealth-ladder/)
 [なぜ、同じ収入でも「貯まる人」と「貯まらない人」がいるの？──100年読み継がれる名著『バビロンの大富豪』](/posts/babylon-richest-man/)
 [「1億円ためないと自由になれない」って本当？──『「パラレルインカム」のはじめ方』をやさしく解説！](/posts/parallel-income/)
+[借金だらけの「ダメ男」が25年で2億円？──『彼はそれを「賢者の投資術」と言った』](/posts/kenja-no-toushijutsu/)

@@ -154,3 +154,9 @@ git push origin main
 ---
 
 *このブログ自体が、今回紹介した方法で作られています。*
+
+---
+
+*AIを使ってみた記事は、ほかにもあります▼*
+[「安すぎる」に気づいた直感と、AIが守ってくれた話](/posts/ai-scam-site-detection/)
+[不動産査定をAIに任せてみたら、想像を超える結果が出た話](/posts/real-estate-ai/)

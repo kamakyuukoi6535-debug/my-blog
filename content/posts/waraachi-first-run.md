@@ -335,3 +335,9 @@ images: ["/images/waraachi-ogp.jpg"]
 
 *あわせて読みたい：走りにまつわる記事はこちら▼*
 [雨の御茶ノ水、人の手が掘った谷を走る](/posts/ochanomizu-run/)
+
+---
+
+*走って考えたことシリーズ、ほかの記事はこちら▼*
+[ドライブシュートだぁぁぁ──四つ木と『キャプテン翼』を思う](/posts/captain-tsubasa-yotsugi-run/)
+[『坂の上の雲』と正岡子規の野球──上野公園に残る明治のベースボール](/posts/sakanoue-shiki-baseball/)

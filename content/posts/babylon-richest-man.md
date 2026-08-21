@@ -148,3 +148,4 @@ SNSやネットで見かける<span class="txt-red">「絶対もうかる」「�
 [「安くなってから買おう」は、なぜ損なのか？──世界的ベストセラー『JUST KEEP BUYING』をやさしく解説！](/posts/just-keep-buying/)
 [「いくらまで使っていいか」の正解は人によって違う？──『THE WEALTH LADDER 富の階段』をやさしく要約](/posts/wealth-ladder/)
 [お金持ちになるのに「頭の良さ」はいらない？──世界で600万部売れた『サイコロジー・オブ・マネー』をやさしく解説！](/posts/psychology-of-money/)
+[借金だらけの「ダメ男」が25年で2億円？──『彼はそれを「賢者の投資術」と言った』](/posts/kenja-no-toushijutsu/)

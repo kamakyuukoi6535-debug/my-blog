@@ -17,6 +17,11 @@ buildFuture = true
   favicon = "/favicon.ico"
 
 [[menus.main]]
+  name = "昭和カレンダー"
+  url = "/showa-calendar/"
+  weight = 7
+
+[[menus.main]]
   name = "カテゴリ"
   url = "/categories/"
   weight = 5

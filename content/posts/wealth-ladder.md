@@ -160,3 +160,4 @@ images: ["/images/wealth-ladder-ogp.jpg"]
 [なぜ、同じ収入でも「貯まる人」と「貯まらない人」がいるの？──100年読み継がれる名著『バビロンの大富豪』](/posts/babylon-richest-man/)
 [「1億円ためないと自由になれない」って本当？──『「パラレルインカム」のはじめ方』をやさしく解説！](/posts/parallel-income/)
 [お金持ちになるのに「頭の良さ」はいらない？──世界で600万部売れた『サイコロジー・オブ・マネー』をやさしく解説！](/posts/psychology-of-money/)
+[借金だらけの「ダメ男」が25年で2億円？──『彼はそれを「賢者の投資術」と言った』](/posts/kenja-no-toushijutsu/)

@@ -75,6 +75,8 @@ images: ["/images/tsuburaya-ultraman.jpg"]
 
 *昭和の今日は何があった日？　明日はどんな日だったのでしょうか。*
 
+*▶ [日付から探す：「昭和の今日は何があった日？」記事一覧](/showa-calendar/)*
+
 <!-- showa-nav -->
 
 ---
