@@ -4,7 +4,7 @@ categories: ["昭和の今日は何があった日？"]
 date: 2026-05-24T09:00:00+09:00
 draft: false
 tags: ["昭和", "映画"]
-images: ["/images/cannes-redcarpet.jpg"]
+images: ["/images/showa-may-24-ogp.jpg"]
 description: "昭和55年5月24日の朝刊を、私は覚えていません。前日にカンヌで『影武者』がパルム・ドールを受賞し、日本映画は26年ぶりに世界の頂点に立っていました。そして同じ日付には、赤線が消えていく少し前の話も残っています。"
 ---
 ## 黒澤明、世界を黙らせた日の翌朝

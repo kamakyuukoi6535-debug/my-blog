@@ -4,7 +4,7 @@ categories: ["走って・ぶら下がって・考えた"]
 date: 2026-06-10T12:00:00+09:00
 draft: false
 tags: ["スポーツ", "漫画", "葛飾"]
-images: ["/images/tsubasa-9449.jpg"]
+images: ["/images/captain-tsubasa-yotsugi-run-ogp.jpg"]
 description: "ワールドカップ開幕の前夜に。野球少年だった私がボールを蹴った日と、翼くんが葛飾・四つ木の子だったこと。九体のキャプテン翼銅像を走って巡ってきました。約7kmのコースガイドつきです。"
 ---
 ## 明日、ワールドカップが開幕する

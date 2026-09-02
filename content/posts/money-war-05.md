@@ -6,7 +6,7 @@ series: "お金と僕の12年戦争"
 episode: 5
 tags: ["お金と僕の12年戦争", "固定費削減", "インデックス投資", "家計管理"]
 description: "ドル建て終身保険の解約に4年かかった。頭でわかっていても行動できない──その壁を越えた記録。"
-images: ["/images/coins-savings-growth.jpg"]
+images: ["/images/money-war-05-ogp.jpg"]
 ---
 *お金と僕の12年戦争・第5話*
 

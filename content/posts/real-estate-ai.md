@@ -3,7 +3,7 @@ date = '2026-04-23T18:00:00+09:00'
 draft = false
 title = '不動産査定をAIに任せてみたら、想像を超える結果が出た話'
 categories = ["お金と暮らし"]
-images = ["/images/ogp-default.jpg"]
+images = ["/images/real-estate-ai-ogp.jpg"]
 description = '資産の棚卸しをしようとして、不動産の評価額だけがどうしても出せませんでした。査定サイトに登録して電話が鳴り止まなくなった失敗を経て、Claudeに調査を任せた記録。営業電話ゼロで根拠の見える査定にたどり着くまで。'
 +++
 

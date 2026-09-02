@@ -4,7 +4,7 @@ categories: ["昭和の今日は何があった日？"]
 date: 2026-05-01T09:00:00+09:00
 description: "昭和50年の春は特別だった。きのこの山が生まれ、一休さんが始まり、ローソンが産声を上げた。ゴールデンウィークのど真ん中、5月1日に昭和を振り返る。"
 tags: ["昭和"]
-images: ["/images/kinokonoyama.png"]
+images: ["/images/showa-may-01-ogp.jpg"]
 ---
 今日は5月1日。ゴールデンウィークのど真ん中だ。
 

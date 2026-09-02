@@ -7,7 +7,7 @@ date: 2026-06-25T12:00:00+09:00
 draft: false
 tags: ["お金と僕の12年戦争", "インデックス投資", "リベ大"]
 description: "高配当株投資という名の短期トレードに敗れた私が、インデックス投資へ。eMAXIS Slim S&P500を月1万円から始め、5冊の本で「握力」を鍛えるまでの記録。"
-images: ["/images/stack-of-books.jpg"]
+images: ["/images/money-war-09-ogp.jpg"]
 ---
 *お金と僕の12年戦争・第9話*
 

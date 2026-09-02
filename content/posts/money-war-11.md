@@ -7,7 +7,7 @@ date: 2026-06-27T12:00:00+09:00
 draft: false
 tags: ["お金と僕の12年戦争", "インデックス投資"]
 description: "iDeCoの現行制度、メリット5つ・デメリット5つ、そして退職所得控除と「10年ルール」を踏まえた出口戦略まで。2021年8月に夫婦で始めたiDeCoの記録と、「妻は減らし、私は増やす」というそれぞれの判断。"
-images: ["/images/coins-savings-growth.jpg"]
+images: ["/images/money-war-11-ogp.jpg"]
 ---
 *お金と僕の12年戦争・第11話*
 

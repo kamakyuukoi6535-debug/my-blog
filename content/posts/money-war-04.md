@@ -6,7 +6,7 @@ episode: 4
 date: 2026-05-15T10:00:00+09:00
 description: "7人家族の家計改善プロジェクト、第一歩は通信費の見直しから。auから格安SIMのmineoへ乗り換えて月約10,000円削減するまでの体験と、現在の日本通信SIMへの移行まで。"
 tags: ["お金と僕の12年戦争", "固定費削減", "リベ大"]
-images: ["/images/smartphone-sim.png"]
+images: ["/images/money-war-04-ogp.jpg"]
 ---
 *お金と僕の12年戦争・第4話*
 

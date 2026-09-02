@@ -5,7 +5,7 @@ draft: false
 categories: ["昭和の今日は何があった日？"]
 tags: ["昭和"]
 description: "昭和46年7月20日、銀座三越1階にマクドナルド日本1号店がオープン。39時間の突貫工事、ハンバーガー80円、歩行者天国の立ち食い。母が自分の分を買わなかった上野の思い出から、シェイクのために自転車で松戸まで走った中学時代、サンキューセットの高3まで。"
-images: ["/images/mcdonalds-burger-fries.jpg"]
+images: ["/images/showa-july-20-ogp.jpg"]
 ---
 7月20日は<span class="hl-y">**「ハンバーガーの日」**</span>だそうです。
 

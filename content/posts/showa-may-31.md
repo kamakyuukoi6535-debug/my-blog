@@ -4,7 +4,7 @@ categories: ["昭和の今日は何があった日？"]
 date: 2026-05-31T09:00:00+09:00
 description: "昭和64年5月31日、WHOが世界禁煙デーを制定した。両親そろって喫煙し家じゅうが煙でまんえんしていた子ども時代、echoのお使い、校庭で一服する野球部の顧問――煙が生活に溶け込んでいた昭和を静かに思い返す。"
 tags: ["昭和", "昭和の暮らし"]
-images: ["/images/traditional-tobaccos-japan.jpg"]
+images: ["/images/showa-may-31-ogp.jpg"]
 ---
 ## 5月31日「世界禁煙デー」――煙が当たり前だった、あの頃の空気
 

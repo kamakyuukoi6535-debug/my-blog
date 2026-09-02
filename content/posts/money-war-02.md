@@ -6,7 +6,7 @@ description: "FXで150万円溶かした。一度ではなく、やめては始�
 series: "お金と僕の12年戦争"
 episode: 2
 tags: ["お金と僕の12年戦争", "FX", "インデックス投資", "家計管理"]
-images: ["/images/fx-chart.png"]
+images: ["/images/money-war-02-ogp.jpg"]
 ---
 *お金と僕の12年戦争・第2話*
 

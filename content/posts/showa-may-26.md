@@ -4,7 +4,7 @@ categories: ["昭和の今日は何があった日？"]
 date: 2026-05-26T09:00:00+09:00
 description: "昭和44年、東名高速道路が全線開通。私が生まれた翌月の出来事だった。テレビの向こうの「夢」が、半世紀を経て子どもたちとの家族旅行になる日まで。"
 tags: ["昭和", "昭和の暮らし", "昭和44年男"]
-images: ["/images/tomei-expwy-atsugi.jpg"]
+images: ["/images/showa-may-26-ogp.jpg"]
 ---
 ## 5月26日 ― 高速の夢と、海辺の悲劇
 

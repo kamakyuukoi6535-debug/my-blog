@@ -1,5 +1,6 @@
 baseURL = 'https://showa44man.com/'
-locale = 'en-us'
+languageCode = 'ja-jp'
+locale = 'ja-jp'
 title = '昭和44年男'
 theme = 'PaperMod'
 buildFuture = true

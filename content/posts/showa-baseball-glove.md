@@ -5,7 +5,7 @@ date: 2026-05-11T09:00:00+09:00
 description: "高校2年の息子にキャッチャーミットの修理を頼まれた日、昭和の空き地と青カップへの憧れ、そして母のパート代の記憶が蘇った。"
 tags: ["昭和の暮らし", "プロ野球"]
 draft: false
-images: ["/images/glove-back.jpg"]
+images: ["/images/showa-baseball-glove-ogp.jpg"]
 ---
 高校2年の息子にキャッチャーミットの修理を頼まれた。紐が切れたのだという。その紐を手にしながら、ふと遠い記憶の蓋が開いた。
 

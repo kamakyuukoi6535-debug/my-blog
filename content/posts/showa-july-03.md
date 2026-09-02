@@ -4,7 +4,7 @@ date: 2026-07-03T06:00:00+09:00
 draft: false
 categories: ["昭和の今日は何があった日？"]
 tags: ["昭和", "駄菓子", "昭和44年男"]
-images: ["/images/oronamin-c-bottle.jpg"]
+images: ["/images/showa-july-03-ogp.jpg"]
 description: "7月3日は「オロナミンC（オロナ・ミンC）の日」。累計300億本を突破した昭和の栄養ドリンクの誕生秘話、大村崑さんとホーロー看板、読売ジャイアンツとのタイアップ、そして小学5年生の夏に初めて飲んだ一本の記憶を綴る。"
 ---
 ## <span class="txt-blue">オロナミンCの日、その語呂合わせ</span>

@@ -5,7 +5,7 @@ draft: false
 categories: ["昭和の今日は何があった日？"]
 tags: ["昭和", "昭和の暮らし", "テレビ"]
 description: "1976年7月27日、田中角栄が受託収賄容疑で逮捕。ロッキード事件です。7歳の私は毎朝テレビでこの言葉を聞いていた。意味も知らないまま覚えた「記憶にございません」「ピーナッツ」「丸紅ルート」。あの言葉の中身を、大人になった目で確かめてみました。"
-images: ["/images/diet-building.jpg"]
+images: ["/images/showa-july-27-ogp.jpg"]
 ---
 
 ## <span class="txt-blue">夏の朝、ニュースはいつも同じ事件を伝えていた</span>
