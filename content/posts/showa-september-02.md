@@ -212,4 +212,4 @@ images: ["/images/september02-ogp.jpg"]
 
 *▼ 昭和の今日は何があった日？（前後の記事）*
 
-◀ 前の記事：[【9月1日】防災頭巾をかぶって、机の下にもぐった日](/posts/showa-september-01/) ｜ 次の記事：（近日公開）
+◀ 前の記事：[【9月1日】防災頭巾をかぶって、机の下にもぐった日](/posts/showa-september-01/) ｜ 次の記事：[【9月3日】あいつは、私と同い年だった](/posts/showa-september-03/) ▶
