@@ -178,4 +178,4 @@ images: ["/images/september03-ogp.jpg"]
 
 *▼ 昭和の今日は何があった日？（前後の記事）*
 
-◀ 前の記事：[【9月2日】金曜の夜十時は、父の休みの日だった](/posts/showa-september-02/) ｜ 次の記事：（近日公開）
+◀ 前の記事：[【9月2日】金曜の夜十時は、父の休みの日だった](/posts/showa-september-02/) ｜ 次の記事：[【9月4日】ランランが死んだ日、いつでも見られると思っていた](/posts/showa-september-04/) ▶
