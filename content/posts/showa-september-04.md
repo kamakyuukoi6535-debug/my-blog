@@ -176,4 +176,4 @@ images: ["/images/september04-ogp.jpg"]
 
 *▼ 昭和の今日は何があった日？（前後の記事）*
 
-◀ 前の記事：[【9月3日】あいつは、私と同い年だった](/posts/showa-september-03/) ｜ 次の記事：（近日公開）
+◀ 前の記事：[【9月3日】あいつは、私と同い年だった](/posts/showa-september-03/) ｜ 次の記事：[【9月5日】土曜の夕方は嬉しくて、日曜の夜は憂鬱だった](/posts/showa-september-05/) ▶
