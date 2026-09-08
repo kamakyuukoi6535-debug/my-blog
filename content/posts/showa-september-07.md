@@ -174,4 +174,4 @@ images: ["/images/september07-ogp.jpg"]
 
 *▼ 昭和の今日は何があった日？（前後の記事）*
 
-◀ 前の記事：[【9月6日】銀のエンゼルと、言えなかった「欲しい」](/posts/showa-september-06/) ｜ 次の記事：（近日公開）
+◀ 前の記事：[【9月6日】銀のエンゼルと、言えなかった「欲しい」](/posts/showa-september-06/) ｜ 次の記事：[【9月8日】毒霧を吹いた日本人と、中間子を予言した日本人](/posts/showa-september-08/) ▶
