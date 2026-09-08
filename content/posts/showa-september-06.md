@@ -140,4 +140,4 @@ images: ["/images/september06-ogp.jpg"]
 
 *▼ 昭和の今日は何があった日？（前後の記事）*
 
-◀ 前の記事：[【9月5日】土曜の夕方は嬉しくて、日曜の夜は憂鬱だった](/posts/showa-september-05/) ｜ 次の記事：（近日公開）
+◀ 前の記事：[【9月5日】土曜の夕方は嬉しくて、日曜の夜は憂鬱だった](/posts/showa-september-05/) ｜ 次の記事：[【9月7日】どんぶりを持って、道に出た](/posts/showa-september-07/) ▶
