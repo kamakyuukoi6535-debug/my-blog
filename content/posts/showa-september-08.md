@@ -160,4 +160,4 @@ images: ["/images/showa-september-08-ogp.jpg"]
 
 *▼ 昭和の今日は何があった日？（前後の記事）*
 
-◀ 前の記事：[【9月7日】どんぶりを持って、道に出た](/posts/showa-september-07/) ｜ 次の記事：（近日公開）
+◀ 前の記事：[【9月7日】どんぶりを持って、道に出た](/posts/showa-september-07/) ｜ 次の記事：[【9月9日】最後の四・八キロがつながった日](/posts/showa-september-09/) ▶
