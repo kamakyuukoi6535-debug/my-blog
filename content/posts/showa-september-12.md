@@ -168,4 +168,4 @@ images: ["/images/showa-september-12-ogp.jpg"]
 
 *▼ 昭和の今日は何があった日？（前後の記事）*
 
-◀ 前の記事：[【9月11日】十円玉を握って、走った](/posts/showa-september-11/) ｜ 次の記事：（近日公開）
+◀ 前の記事：[【9月11日】十円玉を握って、走った](/posts/showa-september-11/) ｜ 次の記事：[【9月13日】九月十三日が三度あった](/posts/showa-september-13/) ▶
