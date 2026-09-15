@@ -148,4 +148,4 @@ images: ["/images/showa-september-13-ogp.jpg"]
 
 *▼ 昭和の今日は何があった日？（前後の記事）*
 
-◀ 前の記事：[【9月12日】菓子が、こわいものになった日](/posts/showa-september-12/) ｜ 次の記事：（近日公開）
+◀ 前の記事：[【9月12日】菓子が、こわいものになった日](/posts/showa-september-12/) ｜ 次の記事：[【9月14日】緑のインクで、さよならを書く](/posts/showa-september-14/) ▶
