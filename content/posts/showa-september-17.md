@@ -158,4 +158,4 @@ images: ["/images/showa-september-17-ogp.jpg"]
 
 *▼ 昭和の今日は何があった日？（前後の記事）*
 
-◀ 前の記事：[【9月16日】物差しに「尺」が戻ってきた日](/posts/showa-september-16/) ｜ 次の記事：（近日公開）
+◀ 前の記事：[【9月16日】物差しに「尺」が戻ってきた日](/posts/showa-september-16/) ｜ 次の記事：[【9月18日】世界初のカップ麺が生まれた日](/posts/showa-september-18/) ▶
