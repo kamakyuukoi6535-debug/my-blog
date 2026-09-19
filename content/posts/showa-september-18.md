@@ -124,4 +124,4 @@ images: ["/images/showa-september-18-ogp.jpg"]
 
 *▼ 昭和の今日は何があった日？（前後の記事）*
 
-◀ 前の記事：[【9月17日】三振を「取らずに」投げた日](/posts/showa-september-17/) ｜ 次の記事：（近日公開）
+◀ 前の記事：[【9月17日】三振を「取らずに」投げた日](/posts/showa-september-17/) ｜ 次の記事：[【9月19日】錆の下から現れた百十五文字](/posts/showa-september-19/) ▶
