@@ -186,4 +186,4 @@ images: ["/images/showa-september-20-ogp.jpg"]
 
 *▼ 昭和の今日は何があった日？（前後の記事）*
 
-◀ 前の記事：[【9月19日】錆の下から現れた百十五文字](/posts/showa-september-19/) ｜ 次の記事：（近日公開）
+◀ 前の記事：[【9月19日】錆の下から現れた百十五文字](/posts/showa-september-19/) ｜ 次の記事：[【9月21日】町の名前が、少年ジャンプの表紙に](/posts/showa-september-21/) ▶
