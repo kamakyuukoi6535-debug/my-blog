@@ -174,4 +174,4 @@ images: ["/images/showa-september-21-ogp.jpg"]
 
 *▼ 昭和の今日は何があった日？（前後の記事）*
 
-◀ 前の記事：[【9月20日】夕やけが終わった日と、「バスの日」](/posts/showa-september-20/) ｜ 次の記事：（近日公開）
+◀ 前の記事：[【9月20日】夕やけが終わった日と、「バスの日」](/posts/showa-september-20/) ｜ 次の記事：[【9月22日】「なぜだ！」と叫んだ大人](/posts/showa-september-22/) ▶
