@@ -162,4 +162,4 @@ images: ["/images/showa-september-22-ogp.jpg"]
 
 *▼ 昭和の今日は何があった日？（前後の記事）*
 
-◀ 前の記事：[【9月21日】町の名前が、少年ジャンプの表紙に](/posts/showa-september-21/) ｜ 次の記事：（近日公開）
+◀ 前の記事：[【9月21日】町の名前が、少年ジャンプの表紙に](/posts/showa-september-21/) ｜ 次の記事：[【9月23日】「こんばんは」と蔵前の蛍の光](/posts/showa-september-23/) ▶
