@@ -162,4 +162,4 @@ images: ["/images/showa-september-23-ogp.jpg"]
 
 *▼ 昭和の今日は何があった日？（前後の記事）*
 
-◀ 前の記事：[【9月22日】「なぜだ！」と叫んだ大人](/posts/showa-september-22/) ｜ 次の記事：（近日公開）
+◀ 前の記事：[【9月22日】「なぜだ！」と叫んだ大人](/posts/showa-september-22/) ｜ 次の記事：[【9月24日】緑色のきっぷが生まれた日](/posts/showa-september-24/) ▶
