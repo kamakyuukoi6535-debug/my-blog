@@ -132,4 +132,4 @@ images: ["/images/showa-september-25-ogp.jpg"]
 
 *▼ 昭和の今日は何があった日？（前後の記事）*
 
-◀ 前の記事：[【9月24日】緑色のきっぷが生まれた日](/posts/showa-september-24/) ｜ 次の記事：（近日公開）
+◀ 前の記事：[【9月24日】緑色のきっぷが生まれた日](/posts/showa-september-24/) ｜ 次の記事：[【9月26日】630万円の机と、かな漢字変換](/posts/showa-september-26/) ▶
