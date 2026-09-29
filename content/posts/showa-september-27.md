@@ -154,4 +154,4 @@ images: ["/images/showa-september-27-ogp.jpg"]
 
 *▼ 昭和の今日は何があった日？（前後の記事）*
 
-◀ 前の記事：[【9月26日】630万円の机と、かな漢字変換](/posts/showa-september-26/) ｜ 次の記事：（近日公開）
+◀ 前の記事：[【9月26日】630万円の机と、かな漢字変換](/posts/showa-september-26/) ｜ 次の記事：[【9月28日】私の16年と、「全員集合」の16年](/posts/showa-september-28/) ▶
