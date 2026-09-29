@@ -156,4 +156,4 @@ images: ["/images/showa-september-28-ogp.jpg"]
 
 *▼ 昭和の今日は何があった日？（前後の記事）*
 
-◀ 前の記事：[【9月27日】「発車オーライ」と、ワンマンの運転席](/posts/showa-september-27/) ｜ 次の記事：（近日公開）
+◀ 前の記事：[【9月27日】「発車オーライ」と、ワンマンの運転席](/posts/showa-september-27/) ｜ 次の記事：[【9月29日】真っ白に燃え尽きたジョーと、泥だらけのユニフォーム](/posts/showa-september-29/) ▶
