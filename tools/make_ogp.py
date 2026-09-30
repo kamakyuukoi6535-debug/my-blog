@@ -85,18 +85,37 @@ def date_label(title):
     return "%d月%d日" % (int(m.group(1)), int(m.group(2))) if m else ""
 
 
-def wrap(draw, text, fnt, max_width):
-    """日本語向け：1文字ずつ幅を測って折り返す"""
+OPEN_BRACKETS = "『「（【〈《［"
+CLOSE_PUNCT = "』」）】〉》］、。？！・…ー"
+
+
+def _wrap_part(draw, text, fnt, max_width):
+    """1文字ずつ幅を測って折り返す。「──」は分けず、閉じ括弧や句読点は行頭に置かない"""
     lines, cur = [], ""
-    for ch in text:
-        if draw.textlength(cur + ch, font=fnt) > max_width and cur:
+    for tok in re.findall(r"──|.", text):
+        if draw.textlength(cur + tok, font=fnt) > max_width and cur:
+            if tok[0] in CLOSE_PUNCT:  # 行頭禁則：前の行にぶら下げる
+                cur += tok
+                continue
+            carry = ""
+            while cur and cur[-1] in OPEN_BRACKETS:  # 行末禁則：開き括弧は次の行へ
+                carry, cur = cur[-1] + carry, cur[:-1]
             lines.append(cur)
-            cur = ch
+            cur = carry + tok
         else:
-            cur += ch
+            cur += tok
     if cur:
         lines.append(cur)
     return lines
+
+
+def wrap(draw, text, fnt, max_width, split_dash=False):
+    """日本語向けの折り返し。split_dash なら「──」の手前で改行する（タイトル用）"""
+    i = text.find("──") if split_dash else -1
+    if i > 0:
+        return (_wrap_part(draw, text[:i], fnt, max_width)
+                + _wrap_part(draw, text[i:], fnt, max_width))
+    return _wrap_part(draw, text, fnt, max_width)
 
 
 def build(slug, title, desc, category, out_path):
@@ -118,10 +137,10 @@ def build(slug, title, desc, category, out_path):
     # タイトル（3行に収まるまでサイズを落とす）
     disp = clean_title(title)
     size = 56
-    lines = wrap(d, disp, font(FONT_BOLD, size), 1050)
+    lines = wrap(d, disp, font(FONT_BOLD, size), 1050, split_dash=True)
     while len(lines) > 3 and size > 38:
         size -= 4
-        lines = wrap(d, disp, font(FONT_BOLD, size), 1050)
+        lines = wrap(d, disp, font(FONT_BOLD, size), 1050, split_dash=True)
     lines = lines[:3]
 
     y = 132
