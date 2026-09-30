@@ -172,4 +172,4 @@ images: ["/images/showa-september-29-ogp.jpg"]
 
 *▼ 昭和の今日は何があった日？（前後の記事）*
 
-◀ 前の記事：[【9月28日】私の16年と、「全員集合」の16年](/posts/showa-september-28/) ｜ 次の記事：（近日公開）
+◀ 前の記事：[【9月28日】私の16年と、「全員集合」の16年](/posts/showa-september-28/) ｜ 次の記事：[【9月30日】電線のバスが消えた道を、ピザが走ってきた](/posts/showa-september-30/) ▶
