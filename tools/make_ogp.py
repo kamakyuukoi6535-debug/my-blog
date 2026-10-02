@@ -89,13 +89,19 @@ OPEN_BRACKETS = "『「（【〈《［"
 CLOSE_PUNCT = "』」）】〉》］、。？！・…ー"
 
 
-def _wrap_part(draw, text, fnt, max_width):
-    """1文字ずつ幅を測って折り返す。「──」は分けず、閉じ括弧や句読点は行頭に置かない"""
+def _wrap_part(draw, text, fnt, max_width, prefer_comma=False):
+    """1文字ずつ幅を測って折り返す。「──」は分けず、閉じ括弧や句読点は行頭に置かない。
+    prefer_comma なら、行の後半にある読点「、」の直後で改行する（タイトル用）"""
     lines, cur = [], ""
     for tok in re.findall(r"──|.", text):
         if draw.textlength(cur + tok, font=fnt) > max_width and cur:
             if tok[0] in CLOSE_PUNCT:  # 行頭禁則：前の行にぶら下げる
                 cur += tok
+                continue
+            k = cur.rfind("、") if prefer_comma else -1
+            if k >= len(cur) * 0.4 and k < len(cur) - 1:  # 読点の直後で区切る
+                lines.append(cur[:k + 1])
+                cur = cur[k + 1:] + tok
                 continue
             carry = ""
             while cur and cur[-1] in OPEN_BRACKETS:  # 行末禁則：開き括弧は次の行へ
@@ -113,9 +119,9 @@ def wrap(draw, text, fnt, max_width, split_dash=False):
     """日本語向けの折り返し。split_dash なら「──」の手前で改行する（タイトル用）"""
     i = text.find("──") if split_dash else -1
     if i > 0:
-        return (_wrap_part(draw, text[:i], fnt, max_width)
-                + _wrap_part(draw, text[i:], fnt, max_width))
-    return _wrap_part(draw, text, fnt, max_width)
+        return (_wrap_part(draw, text[:i], fnt, max_width, split_dash)
+                + _wrap_part(draw, text[i:], fnt, max_width, split_dash))
+    return _wrap_part(draw, text, fnt, max_width, split_dash)
 
 
 def build(slug, title, desc, category, out_path):
