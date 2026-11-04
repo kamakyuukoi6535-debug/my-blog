@@ -87,19 +87,20 @@ def date_label(title):
 
 OPEN_BRACKETS = "『「（【〈《［"
 CLOSE_PUNCT = "』」）】〉》］、。？！・…ー"
+BREAK_AFTER = "、」』？！"
 
 
 def _wrap_part(draw, text, fnt, max_width, prefer_comma=False):
     """1文字ずつ幅を測って折り返す。「──」は分けず、閉じ括弧や句読点は行頭に置かない。
-    prefer_comma なら、行の後半にある読点「、」の直後で改行する（タイトル用）"""
+    prefer_comma なら、行の後半にある読点や閉じ括弧（、」』？！）の直後で改行する（タイトル用）"""
     lines, cur = [], ""
     for tok in re.findall(r"──|.", text):
         if draw.textlength(cur + tok, font=fnt) > max_width and cur:
             if tok[0] in CLOSE_PUNCT:  # 行頭禁則：前の行にぶら下げる
                 cur += tok
                 continue
-            k = cur.rfind("、") if prefer_comma else -1
-            if k >= len(cur) * 0.4 and k < len(cur) - 1:  # 読点の直後で区切る
+            k = max(cur.rfind(c) for c in BREAK_AFTER) if prefer_comma else -1
+            if k >= len(cur) * 0.4 and k < len(cur) - 1:  # 読点や閉じ括弧の直後で区切る
                 lines.append(cur[:k + 1])
                 cur = cur[k + 1:] + tok
                 continue
