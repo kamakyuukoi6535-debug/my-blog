@@ -334,6 +334,7 @@ images: ["/images/waraachi-ogp.jpg"]
 ---
 
 *あわせて読みたい：走りにまつわる記事はこちら▼*
+[【続編】2代目ワラーチ×ファイブフィンガーズ──寝指だった小指が起きた話](/posts/waraachi-second-fivefingers/)
 [雨の御茶ノ水、人の手が掘った谷を走る](/posts/ochanomizu-run/)
 
 ---
