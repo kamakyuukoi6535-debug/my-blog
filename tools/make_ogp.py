@@ -113,6 +113,12 @@ def _wrap_part(draw, text, fnt, max_width, prefer_comma=False):
             cur += tok
     if cur:
         lines.append(cur)
+    # 最後の行が1〜3文字だけになったら、前の行の読点や閉じ括弧の直後から送り直す（タイトル用）
+    if prefer_comma and len(lines) >= 2 and len(lines[-1]) <= 3:
+        prev = lines[-2]
+        k = max(prev.rfind(c) for c in BREAK_AFTER)
+        if 0 < k < len(prev) - 1 and draw.textlength(prev[k + 1:] + lines[-1], font=fnt) <= max_width:
+            lines[-2:] = [prev[:k + 1], prev[k + 1:] + lines[-1]]
     return lines
 
 
