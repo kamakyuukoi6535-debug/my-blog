@@ -87,7 +87,7 @@ def date_label(title):
 
 OPEN_BRACKETS = "『「（【〈《［"
 CLOSE_PUNCT = "』」）】〉》］、。？！・…ー"
-BREAK_AFTER = "、」』？！"
+BREAK_AFTER = "、。」』？！"
 
 
 def _wrap_part(draw, text, fnt, max_width, prefer_comma=False):
