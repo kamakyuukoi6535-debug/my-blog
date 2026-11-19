@@ -19,6 +19,8 @@ images: ["/images/okane-wa-nekasete-ogp.jpg"]
 
 この記事では、本書の内容を中学生が読んでもわかるくらいやさしく、<span class="hl-b">「下落相場でもあわてずに持ち続けるための考え方」</span>を中心にまとめました。
 
+![水瀬ケンイチ『改訂版 お金は寝かせて増やしなさい』（フォレスト出版、2024年2月）の表紙。帯には「山崎元氏推薦！」の文字も](/images/okane-wa-nekasete-cover.jpg)
+
 ---
 
 ## <span class="txt-blue">著者・水瀬ケンイチさんってどんな人？</span>
